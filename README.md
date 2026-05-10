@@ -61,7 +61,7 @@ Before building the dashboard, Python was used for data cleaning and preprocessi
 # 📷 Dashboard Preview
 
 ##  Sales Dashboard
-![Sales Dashboard](YOUR_IMAGE_LINK_HERE)
+![Sales Dashboard](https://github.com/ahmedmaher99/Electronics-Sales-Dashboard/blob/main/Electronics%20Sales%20Dashboard.png)
 
 ---
 
